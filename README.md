@@ -7,11 +7,25 @@
 * ✍ Хочу писать чистый и читабельный код
 
 ## 🔨 Мой стек:
-![alt text](https://raw.githubusercontent.com/andreysdrv/andreysdrv/main/svg/html-5.svg)![alt text](https://raw.githubusercontent.com/andreysdrv/andreysdrv/main/svg/css3.svg)![alt text](https://raw.githubusercontent.com/andreysdrv/andreysdrv/main/svg/JS.svg)![alt text](https://raw.githubusercontent.com/andreysdrv/andreysdrv/main/svg/git.svg)![alt text](https://raw.githubusercontent.com/andreysdrv/andreysdrv/main/svg/react.svg)
+![HTML](./pic/html5.svg)
+![CSS](./pic/css3.svg)
+![JS](./pic/js.svg)
+![Git](./pic/git.svg)
+![React](./pic/react.svg)
+![Webpack](./pic/webpack.svg)
 
 ## Контакты:
-## 🏆 Моя статистика:
+[<img src="./pic/telegram.svg">](https://t.me/beotrix3)
 
+## 🏆 Моя статистика:
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=beotrix3&hide=contribs&show_icons=true&theme=react">
+    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=beotrix3&hide=contribs&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beotrix3&layout=compact&theme=react">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beotrix3&layout=compact&theme=react" />
+  </a>
+</div>
 
 <!---
 Beotrix3/Beotrix3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
