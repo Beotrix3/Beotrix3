@@ -9,7 +9,7 @@
 ## 🔨 Мой стек:
 ![HTML](./pic/html5.svg)
 ![CSS](./pic/css3.svg)
-![JS](./pic/js.svg)
+![JS](./pic/JS.svg)
 ![Git](./pic/git.svg)
 ![React](./pic/react.svg)
 ![Webpack](./pic/webpack.svg)
