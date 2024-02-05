@@ -14,8 +14,8 @@
 ![Webpack](./pic/webpack.svg)
 
 ## Контакты:
-[<img src="./pic/telegram.svg">](https://t.me/beotrix3)
-[<img src="./pic/vk.svg">](https://vk.com/beotrix3)
+[<img src="./pic/telegram.svg">](https://t.me/taisheen1)
+[<img src="./pic/vk.svg">](https://vk.com/taisheen)
 
 ## 🏆 Моя статистика:
 <div>
